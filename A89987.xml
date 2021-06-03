@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new meeting of ghosts at Tyburn. Being a discourse of Oliver Cromwell, John Bradshaw. Henry Ioeton. [sic] Thomas Pride. Thomas Scot, Secretary to the Rump. Major Gen. Harrison. &amp; Hugh Peters the divells chaplain.</title>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89987</idno><idno type="EEBO-CITATION">99867068</idno>
+  <idno type="VID">169362</idno>
+  <idno type="EEBO-PROQUEST">2240925836</idno>
+  
+            <idno type="STC">Wing N669</idno>
+            <idno type="STC">Thomason E1085_7</idno>
+            <idno type="STC">ESTC R208067</idno>
+            <idno type="PROQUEST">99867068</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99867068e"/>
+            <note>(EEBO-TCP ; phase 2, no. A89987)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169362)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 161:E1085[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new meeting of ghosts at Tyburn. Being a discourse of Oliver Cromwell, John Bradshaw. Henry Ioeton. [sic] Thomas Pride. Thomas Scot, Secretary to the Rump. Major Gen. Harrison. &amp; Hugh Peters the divells chaplain.</title>
+               </titleStmt>
+               <extent>8 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year of the rebellious phanaticks downfall, 1660 [i.e. 1661]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "March 18".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Cromwell, Oliver, 1599-1658 --  Early works to 1800.</term>
+               <term type="personal_name">Bradshaw, John, 1602-1659 --  Early works to 1800.</term>
+               <term type="personal_name">Ireton, Henry, 1611-1651 --  Early works to 1800.</term>
+               <term type="personal_name">Pride, Thomas, d. 1658 --  Early works to 1800.</term>
+               <term type="personal_name">Scott, Thomas, d. 1660 --  Early works to 1800.</term>
+               <term type="personal_name">Harrison, Thomas, 1606-1660 --  Early works to 1800.</term>
+               <term type="personal_name">Peters, Hugh, 1598-1660 --  Early works to 1800.</term>
+               <term type="topical_term">Regicides --  Great Britain --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1649-1660 --  Drama --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169362:1"/>
+            <p>A New Meeting OF GHOSTS AT TYBVRN.</p>
+            <p>BEING A Discourse OF
+<list>
+                  <item>
+                     <hi>Oliver Cromwell.</hi>
+                  </item>
+                  <item>
+                     <hi>John Bradshaw.</hi>
+                  </item>
+                  <item>
+                     <hi>Henry Ioeton.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Pride.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Scot,</hi> Secretary to the <hi>Rump.</hi>
+                  </item>
+                  <item>
+                     <hi>Major Gen. Harrison.</hi> &amp;</item>
+                  <item>
+                     <hi>Hugh Peters</hi> the Divells CHAPLAIN.</item>
+               </list>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year of the Rebellious Phanaticks downfall, 1660.</p>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:169362:2"/>
+            <lg>
+               <l>Here is <hi>Cromwell</hi> a Traytor bold</l>
+               <l>Which by no man would be controld.</l>
+               <l>Which so much woe on this Land did bring.</l>
+               <l>By murdering his Royall King.</l>
+            </lg>
+            <p>
+               <figure>
+                  <figDesc>generic woodcut puporting to be Oliver Cromwell</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>This is <hi>Bradshaw</hi> that divellish Fien<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </l>
+               <l>That brought his King to a fatal end</l>
+               <l>For which cursed and damn'd act,</l>
+               <l>He now doth suffer for his bloody fact</l>
+            </lg>
+            <p>
+               <figure>
+                  <figDesc>generic woodcut puporting to be John Bradshaw</figDesc>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:169362:2"/>
+            <head>A New Meeting of Ghosts at TYBƲRN</head>
+            <sp>
+               <speaker>OLIVER.</speaker>
+               <p>
+                  <seg rend="decorInit">W</seg>Hy how now my Mirmidons, what's the rea<g ref="char:EOLunhyphen"/>son we cannot lye quiet in our Graves? thought it had been punishment enough so me to have been fetcht away in a Whirle<g ref="char:EOLhyphen"/>wind; that almost shook the whole Uni<g ref="char:EOLhyphen"/>verse; and like to have sunk <hi>Charon,</hi> and overturned his Boat, when he Ferried me over the River <hi>Stix.</hi> Did we ever think to be call'd to so strict an Account for our murdering of so good a KING, and so many of his Honest Subjects; but now alas, we find the dire effects of our blood and Villany, crying out loud for Justice against us at a High Court of Justice indeed, where I and all those of the late murderers of the pretended Court of Justice that murthered their King, must all answer for their horrid murde s and treasons which they committed while they were upon the earth: Now my most divellish Presihent, thee <hi>Bradshaw,</hi> to thee I speak. Thou that gavest sentence on thy Martyr'd King. Thou that wert worse then <hi>Pilate,</hi> which sentenced our <hi>Saviour;</hi> for he would have seemingly wash'd his hands of the of the guilt of it, if he could: But thou like an impudent and bloody Villain did not only give sentence against thy King, but gloried in it; Making the World believe thou hadst done well
+<pb n="4" facs="tcp:169362:3"/> in it: and justifying thy impudent, horrid and bloody fact; as if thou hadst done it by Law, but indeed it was I that was the chief instrument in it, it was I that brought all to passe, to make my selfe and my family as I thought famous, (but now alas I am in perpetuall torment and my family in perpetual Infamy.)</p>
+               <q>
+                  <lg>
+                     <head>Upon <hi>Cromwell.</hi>
+                     </head>
+                     <l>Here lies that Beast made up of blood.</l>
+                     <l>That murderd <hi>Charles</hi> the First so good:</l>
+                     <l>And for his deeds, as they were evill,</l>
+                     <l>Let him not want fire, good Devill.</l>
+                  </lg>
+               </q>
+            </sp>
+            <sp>
+               <speaker>Bradshaw.</speaker>
+               <p>Wo worth the time that I beheld thy bloody face, or heark<g ref="char:EOLhyphen"/>ned to thy alluring tongue, with which (and hope of prefer<g ref="char:EOLhyphen"/>ment) I was at first drawn to that bloody and most horrid fact, of murdering my KING: But being once brought into it, I re<g ref="char:EOLhyphen"/>solv'd to prove an absolute Villain; and to justifie all that I did and make the World believe that what I did was acrording to Law. But now I feel the sting of conscience; now I am punish<g ref="char:EOLhyphen"/>ed for my horrid crimes and villanies, now I wish I had conten<g ref="char:EOLhyphen"/>ted my self with my ordinary employment at <hi>Guild-Hall,</hi> and not out of covetousnesse of gain and preferment, accepted of that damn'd and cursed place of <hi>President</hi> of the pretended <hi>High Court of Justice,</hi> where we did act such unheard of Vilanies that never before was thought of, nor ever will be forgot while the World doth indure; Oh the unheard of torments that I en<g ref="char:EOLhyphen"/>dure, no tongue can speak or think of. B t who comes here, sure it is your son <hi>Ireton.</hi>
+               </p>
+               <q>
+                  <lg>
+                     <head>Upon <hi>Bradshaw.</hi>
+                     </head>
+                     <l>My Epitath is, <hi>[J burn in Hell]</hi>
+                     </l>
+                     <l>Which with my deeds doth fit full well;</l>
+                     <l>I was a Rogue, and so I dy'd,</l>
+                     <l>And none like me was e're beside.</l>
+                  </lg>
+               </q>
+            </sp>
+            <sp>
+               <speaker>Ireton.</speaker>
+               <p>Oh have I found you both toge<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>her, what is the news of brea<g ref="char:EOLhyphen"/>king open the Caves of the earth, and fetching out our dead
+<pb n="5" facs="tcp:169362:3"/> bodies; is not our plagues here already enough, but that we must again be taken out of our graves, and made a Spectacle to the World, by being hang'd and buried under the Gallows, a just reward for such blood suckers as we were, who have fill'd the earth with our wickednesses, and made all good men asha<g ref="char:EOLhyphen"/>med to think of our wicked actions: Oh Father <hi>Cromwell</hi> it is not above 3. or 4. years since our Words and Swords was Laws, and that we were King-killers, and hang'd and banish'd every one that did but speak against us, or our Tyrannicall doings: but now the vengeance of God is compleated upon us, and that justly. I must confesse that I was your right hand, as long as I lived, in all your blo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dy designs, and the very chief chief con<g ref="char:EOLhyphen"/>triver of the Kings death; and you found me so good a Practi<g ref="char:EOLhyphen"/>tioner in wickednesse, that you thought you could never do <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>nough for me, Witnesse, your marrying me to your Daughter (good Gentlewoman) and your fending me into <hi>Ireland,</hi> to be chief Governour, indeed I was your only beloved Son in Law in whom you trusted all your secret Mackinations and wicked Contrivances, and had not I been fetcht away before you, no doubt but I had succeeded you; and exceeded you (if possible) in all your Villanies. Therefore it was very fit that our rotten Carcasses should be hang'd together, (although dead) that had been the cause of hanging and murdering so many innocent persons, wose blood we now find, to our sorrow, crying so loud against us for vengeance. But stay, who coms here, another of our bloody acquaintance; if I be not mistaken in him it is <hi>Pride,</hi> one that had his hands in acting (<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hough he had not brains enough to plot) our bloody designs as well as our selves and to say the truth, our very stalking-horse: but no more wit then one of his Dray-horses, but as bold as <hi>Bayard.</hi>
+               </p>
+               <q>
+                  <lg>
+                     <head>Upon <hi>Ireton.</hi>
+                     </head>
+                     <l>
+                        <hi>I</hi> of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>he Divell did take degree,</l>
+                     <l>Thinking of him to have a Fee;</l>
+                     <l>but now I am got into'th pot</l>
+                     <l>With my Sire <hi>Cromwel</hi> too too hot.</l>
+                  </lg>
+               </q>
+            </sp>
+            <sp>
+               <speaker>Pride.</speaker>
+               <p>O my guts, I am scorcht to pieces! Oh that I had followed my Trade of Brewing smal Beer, and kept to my slings
+<pb n="6" facs="tcp:169362:4"/> and never took up the sword: I am sure it had been a great deal better for me: I had not such Satanical Attendance to wait up<g ref="char:EOLhyphen"/>on me now: but I am sure it was long of your delusions, and our father the devill (that now pays us our wages) to perswade me to murder my King, and to affront him to his face, while he was alive, who is so glorious and happy, now we are tormen<g ref="char:EOLhyphen"/>ted. <hi>I</hi> must be made a Colonell forsooth, and then <hi>Non-such</hi> one the Kings houses given me, and after that made one of the Lords of your other <hi>House,</hi> I had rather been made a <hi>Tom-Turd,</hi> and a great deal fitter place for me: It would have been a better imployment then to be a Stoaker where <hi>I</hi> am, but <hi>I</hi> pro<g ref="char:EOLhyphen"/>mise your Highness for all the honours I received from you, you shall not want fire: <hi>I</hi> have staid too long with you, for truly <hi>I</hi> do not care for your company, <hi>I</hi> must go to another place to be hanged, but <hi>I</hi> am sure <hi>I</hi> shall be with you again too soon; so for the present, adieu <hi>Noll, Bradshaw</hi> and <hi>Ireton,</hi> &amp; your plagues attend you.</p>
+               <q>
+                  <lg>
+                     <head>Upon <hi>Pride.</hi>
+                     </head>
+                     <l>I of a Brewer too high did swell,</l>
+                     <l>But then at last too low I fell.</l>
+                     <l>Better it was for to sell grains,</l>
+                     <l>Then to endure such wofull pains</l>
+                     <l>As I do in this wofull place,</l>
+                     <l>
+                        <hi>I</hi> wish that I had had more grace.</l>
+                  </lg>
+               </q>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Oliv<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r.</hi>
+               </speaker>
+               <p>Is he gone?</p>
+            </sp>
+            <sp>
+               <speaker>Ireton.</speaker>
+               <p>
+                  <hi>I,</hi> but here comes another in his Room.</p>
+            </sp>
+            <sp>
+               <speaker>Oliver.</speaker>
+               <p>Who is it?</p>
+            </sp>
+            <sp>
+               <speaker>Ireton.</speaker>
+               <p>O another of our damn'd crew, it is <hi>Scot</hi> your late Secretary who desired when he was dead, it might be written upon his Grave, <hi>Here lies one of his Kings Judges;</hi> but he is served otherways, for he hath neither Grave nor Epitath, but his Quar<g ref="char:EOLhyphen"/>ters set upon the Gates of <hi>London</hi> to be rotted away, or devou<g ref="char:EOLhyphen"/>red by the Fouls of the Air.</p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>What dismal shri<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ks and groans are these that <hi>I</hi> am now acquainted with; it was better with me when I was one of the Judges of my gracious King; and Secretary to <hi>Oliver Cromwell</hi> and the <hi>Rump.</hi> Then did I fare deliciously, never wanted a
+<pb n="7" facs="tcp:169362:4"/> Squadron of Wbores, took my pleasure in Signing of Warrants to cut honest mens throats, was sent to pervert Gen. <hi>Monck,</hi> but alas he was too honest to be wrought upon by such a Caitiffe as I; he fooled me and the Rump, and then begun my misery, for then they tryed me for that horrid fact of murdering my King; and so I was hang'd and quartered, a just reward for all bloody Traytors, and now I with a great many more am come to bear you company; for as we took pleasure in blood and cru<g ref="char:EOLhyphen"/>elty together, so let us be tormented together, it is pity we should be parted; so Divel claim thy due. Here comes our late Major General <hi>Harrison,</hi> the head of the Fifth Monarchy-men, he looks very fierce.</p>
+               <q>
+                  <lg>
+                     <head>Upon <hi>Scot.</hi>
+                     </head>
+                     <l>Here lies a bloody Rebell bold,</l>
+                     <l>That kil'd his King for gain of Gold,</l>
+                     <l>'Tis known he lov'd Whores full well,</l>
+                     <l>For which he now repents in Hell.</l>
+                  </lg>
+               </q>
+            </sp>
+            <sp>
+               <speaker>Harrison.</speaker>
+               <p>How now, what is this the ruling of the earth, that I so often prated and told my Companions of? Is this accor<g ref="char:EOLhyphen"/>ding to my promise to my Wife and other of my fraternity, to return again in six days, but now I have seen six weeks, and I am sure must tarry here for ever, world without end. I could not repent of murdering my King, when I was at the Gallows, and to dye, but now it is too late, I would repent but cannot, there<g ref="char:EOLhyphen"/>fore I would desire all you of my phanatick crew, who are yet alive, to leave off your Rebellions and Treasons, and make Re<g ref="char:EOLhyphen"/>ligion no longer a Cloak for your wicked and bloody desings, but that without dissimulation (which will be hard for you to do) you would truly honour King Jesus, and obey his Vice<g ref="char:EOLhyphen"/>gerent, <hi>King Charles</hi> the 2d. your lawfull King, who he through his mighty power hath set over you; then may you scape that shamefull death, which <hi>I</hi> too lately fuffered and justly brought upon my self. Well I must be gone, I'le say no more but leave your selves to be judges how you were misled.</p>
+               <q>
+                  <lg>
+                     <head>Vpon <hi>Harrison.</hi>
+                     </head>
+                     <l>Here lies that mighty man of might</l>
+                     <l>That taught his men to Preach and fight.</l>
+                     <l>They were in the wrong and not the right,</l>
+                     <l>And so they bade the World Goodnight.</l>
+                  </lg>
+               </q>
+            </sp>
+            <sp>
+               <pb n="8" facs="tcp:169362:5"/>
+               <speaker>Peters</speaker>
+               <p>So so, a brave Convention, what all you met together and not call me to your meeting?</p>
+            </sp>
+            <sp>
+               <speaker>Cromwell</speaker>
+               <p>Oh, my beloved Chaplain, art thou come, <hi>I</hi> have mist thee long, I prethee how comest thou hither, wert thou hang'd too, or didst thou hang thy self?</p>
+            </sp>
+            <sp>
+               <speaker>Pet.</speaker>
+               <p>Nay marry, if they had let me alone while <hi>I</hi> had hang'd my self it should have been long enough; without it had been with the Butchers Wife, for your Highness knows that I lov'd he<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>de as much use of her as you us'd to do of <hi>Lamberts</hi> Wife: but if we had not committed no worse sins then that sweet sin of Venery, I may be it had been better for us then now it is: But oh the Kings blood, whose death you and I complotted as we rid between <hi>Dunstable</hi> and <hi>St. Albans,</hi> and other innocent persons that we have caus'd to be murdered, it is that cries so loud against us. But because you would know how I came hi<g ref="char:EOLhyphen"/>ther I will tel you. They Codemn'd me to be hang'd at Cha<g ref="char:EOLhyphen"/>ring-Cross, whithin fight of that fatall place where the King lost his life, and then to be headed and Quarterd; and my quar<g ref="char:EOLhyphen"/>ters set upon the Gates of the City of <hi>London,</hi> as a Spectacle to all other Traytors. which was accordingly done: and now my Ghost is come to keep company with you in this place of dark<g ref="char:EOLhyphen"/>nesse and desolation.</p>
+               <q>
+                  <lg>
+                     <head>Vpon <hi>Peters</hi>
+                     </head>
+                     <l>I was the only preaching-man</l>
+                     <l>From which all mischiefs sprang,</l>
+                     <l>And did such horrid things create.</l>
+                     <l>Which would make all the World retreat.</l>
+                     <l>Nay let the World lye down and dye</l>
+                     <l>When they hear of thy Villany.</l>
+                     <l>So I go to my cursed crew,</l>
+                     <l>Saying farewell World, and so adieu.</l>
+                     <l>Take me Divell, do me no wrong.</l>
+                     <l>For I from thee have staid too long.</l>
+                     <l>
+                        <hi>The Night is gon<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>he</hi> Day <hi>i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> almost spread,</hi>
+                     </l>
+                     <l>
+                        <hi>Our wofull Ghosts <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </hi> T<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>burn <hi>now are fled;</hi>
+                     </l>
+                     <l>
+                        <hi>Each to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> doleful station now is bent,</hi>
+                     </l>
+                     <l>
+                        <hi>For fear they by grand</hi> Plato <hi>should be shent.</hi>
+                     </l>
+                  </lg>
+               </q>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
